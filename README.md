@@ -55,6 +55,7 @@ Fig. 6: Derste işlediğimiz 2 boyutlu sınıflandırma probleminde en başta ka
 
 Fig. 7: Derste işlediğimiz bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali.
 **B. Convolutional Neural Network (CNN)**
+
 We might study classification example on images in the last weeks of the course. Cats-dogs image repository on Kaggle. We will follow the tutorial given in [2]. Please see Figures 8 and 9 for classification of cat and dog images via CNN.
 
 <img width="1153" alt="cats_dogs_cnn" src="https://user-images.githubusercontent.com/86153358/122642482-4361d180-d113-11eb-8fd1-63a7494c9021.png">
