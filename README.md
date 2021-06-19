@@ -50,6 +50,7 @@ Final sınavında ise burada Fig. 5'deki gibi iki katmanlı (giriş katmanı say
 ![data annotation midterm question](https://user-images.githubusercontent.com/86153358/122642434-0bf32500-d113-11eb-997a-e907e98a1c08.jpg)
 
 Fig. 6: Derste işlediğimiz 2 boyutlu sınıflandırma probleminde en başta karşılaştığımız bazı adımlar.
+
 ![least squares gradient descent](https://user-images.githubusercontent.com/86153358/122642452-2200e580-d113-11eb-9b83-a891ddac5e45.png)
 
 Fig. 7: Derste işlediğimiz bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali.
