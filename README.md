@@ -19,7 +19,6 @@ Fig. 2: A MLP network is going to learn XOR problem.
 Fig. 3: For the XOR problem, we use a MLP with one hidden layer consisting of
 ![ANN_MLP_flow_chart](https://user-images.githubusercontent.com/86153358/122642313-840d1b00-d112-11eb-8b73-253e93061268.jpg)
 
-![data annotation midterm question](https://user-images.githubusercontent.com/86153358/122642424-04338080-d113-11eb-98b2-6312385183c5.jpg)
 Fig. 4: Error back-propogation algorithm (e.g., Gradient Descent) is used to update the network parameters.
 
 **Çok Katmanlı bir Yapay Sinir Ağının Ayarlabilen Parametre (Ağırlık) Sayısı**
