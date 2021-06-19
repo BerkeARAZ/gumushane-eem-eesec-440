@@ -23,6 +23,7 @@ Fig. 4: Error back-propogation algorithm (e.g., Gradient Descent) is used to upd
 
 **Çok Katmanlı bir Yapay Sinir Ağının Ayarlabilen Parametre (Ağırlık) Sayısı**
 ![MLP specific](https://user-images.githubusercontent.com/86153358/122642331-a010bc80-d112-11eb-9d2a-7d8d88ceed48.jpg)
+
 Fig. 5: A MLP network with one input, three neurons in the hidden layer and single output. This network has 2 : 3 : 1 configuration.
 
 Yukarıda Fig. 5'de gösterilen yapay sinir ağının konfigurasyonu 2 : 3 : 1 olup, giriş katmanında iki, gizli katmanında üç ve çıkış katmanında bir nöron bulundurmaktadır (yuvarlaklar nöronları temsil ediyor). Şekilde ayarlanabilen parametre sayısı 13 olarak gözüküyor: w1, w2, w3, w4, w5, w6, w7, w8, w9, w10, w11, w12, w13. Ara sınavda karşımıza çıkabilecek benzer bir yapıda, verilen konfigürasyona göre ayarlanabilen parametre (ağırlık) sayısını hem elimizle çizerek, hem de formülize ederek kısa yoldan hesaplayabiliriz. Formülü siz de biraz düşünürseniz kendiniz çıkarabilirsiniz. Giriş, çıkış ve bir gizli katmandan oluşan bir yapay sinir ağındaki toplam ayarlanabilen parametre (ağırlık - weight) sayısını bulan formül şöyle:
@@ -54,6 +55,7 @@ Fig. 6: Derste işlediğimiz 2 boyutlu sınıflandırma probleminde en başta ka
 ![least squares gradient descent](https://user-images.githubusercontent.com/86153358/122642452-2200e580-d113-11eb-9b83-a891ddac5e45.png)
 
 Fig. 7: Derste işlediğimiz bir boyutlu optimizasyon (veya regresyon) probleminin görselleştirilmiş hali.
+
 **B. Convolutional Neural Network (CNN)**
 
 We might study classification example on images in the last weeks of the course. Cats-dogs image repository on Kaggle. We will follow the tutorial given in [2]. Please see Figures 8 and 9 for classification of cat and dog images via CNN.
@@ -61,9 +63,11 @@ We might study classification example on images in the last weeks of the course.
 <img width="1153" alt="cats_dogs_cnn" src="https://user-images.githubusercontent.com/86153358/122642482-4361d180-d113-11eb-8fd1-63a7494c9021.png">
 
 Fig. 8: Classification of cat & dog images via CNN.
+
 ![cats_dogs_classification](https://user-images.githubusercontent.com/86153358/122642496-55dc0b00-d113-11eb-8253-4ef158fff445.gif)
 
 Fig. 9: Cats and dogs classification with deep learning.
+
 **References**
 
 [1] T. Guillod, P. Papamanolis and J. W. Kolar, "Artificial Neural Network (ANN) Based Fast and Accurate Inductor Modeling and Design," in IEEE Open Journal of Power Electronics, vol. 1, pp. 284-299, 2020, doi: 10.1109/OJPEL.2020.3012777.
