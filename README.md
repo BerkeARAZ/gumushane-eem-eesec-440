@@ -46,6 +46,7 @@ Final sınavında ise burada Fig. 5'deki gibi iki katmanlı (giriş katmanı say
 ![formula number of weights](https://user-images.githubusercontent.com/86153358/122642351-ba4a9a80-d112-11eb-9690-7198ca1c0d90.jpg)
 
 **2 Boyutlu Sınıflandırma Problemi**
+
 ![data annotation midterm question](https://user-images.githubusercontent.com/86153358/122642434-0bf32500-d113-11eb-997a-e907e98a1c08.jpg)
 
 Fig. 6: Derste işlediğimiz 2 boyutlu sınıflandırma probleminde en başta karşılaştığımız bazı adımlar.
