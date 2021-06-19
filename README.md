@@ -43,6 +43,7 @@ n = 4(2 + 1) + 2(4 + 1) = 22
 ayarlanabilen ağırlık vardır. Ben sizin yerinizde olsam formülü anlamasam bile (ki oldukça basit bir formül) verilen konfigürasyondaki çok katmanlı yapay sinir ağını elimle çizer ve ayarlanabilen ağırlıkları tek tek sayarım. Sınavda, Fig. 5'de gördüğümüz zorluk seviyesinde bir soru karşımıza çıkacak.
 
 Final sınavında ise burada Fig. 5'deki gibi iki katmanlı (giriş katmanı sayılmadığından iki katman deniyor, yoksa üç katmanlı) değil birden fazla gizli katmana sahip bir yapay sinir ağında ne kadar ayarlanabilen parametre (ağırlık) olduğunu soracağım. Dikkatlice düşünecek olursak, yukarıda iki katmanlı (giriş katmanı sayılmadığından iki katman deniyor, yoksa üç katmanlı) bir ağ yapısı için türettiğimiz formülü k-1 katmanlı bir MLP için aşağıdaki gibi genelleştirebiliriz.
+
 ![formula number of weights](https://user-images.githubusercontent.com/86153358/122642351-ba4a9a80-d112-11eb-9690-7198ca1c0d90.jpg)
 
 **2 Boyutlu Sınıflandırma Problemi**
